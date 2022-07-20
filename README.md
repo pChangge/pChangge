@@ -9,8 +9,9 @@
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMonody&show_icons=true&theme=radical)
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMonody&show_icons=true&theme=radical)
+
 
 
