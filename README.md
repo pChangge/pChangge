@@ -8,10 +8,8 @@
   </div>
 <p align="center">
 <img src="https://img.shields.io/badge/vim-%2357A143.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/opengl-%2300599C.svg?&style=for-the-badge&logo=opengl&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-%2300599C.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
