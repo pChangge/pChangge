@@ -10,5 +10,5 @@
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMonody&show_icons=true&theme=radical)
+<img heiht="300" src="https://github-readme-stats.vercel.app/api?username=xMonody&show_icons=true&theme=radical"
 </div>
